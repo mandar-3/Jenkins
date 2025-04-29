@@ -28,6 +28,6 @@ pipeline {
             steps {
                 sh 'touch file_1{1..5}.txt'
             }
-        }
+        
     }
 }
